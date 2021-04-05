@@ -1,6 +1,6 @@
 {
   "name": "@insomnia-dev/miscord",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Facebook Messenger to Discord bridge",
   "main": "src/index.ts",
   "scripts": {
