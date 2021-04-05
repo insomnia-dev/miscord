@@ -1,3 +1,7 @@
+# @insomnia-dev/miscord
+
+A fork of [miscord](https://github.com/miscord/miscord) that is built with all of the latest changes in the official repo. The original has not had a published version in over a year and some changes since then should be included.
+
 ![banner](https://miscord.net/img/banner.png)
 
 <p align="center">
@@ -18,16 +22,20 @@
 **[FAQ](https://docs.miscord.net/faq)** &nbsp;
 
 # :memo: Documentation
+
 **See the guide/docs [here](https://docs.miscord.net)**
 
 # :heart: Contributors
+
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/miscord/miscord/graphs/contributors"><img src="https://opencollective.com/miscord/contributors.svg?width=890&button=false" /></a>
 
 # :scroll: License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 # :warning: Disclaimer
+
 We do not guarantee that this bridge will work correctly. We are not responsible for getting banned on any services integrated with Miscord. Use at your own discretion.  
 All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.  
 Facebook and the Facebook logo are trademarks or registered trademarks of Facebook, Inc., used under license agreement.
